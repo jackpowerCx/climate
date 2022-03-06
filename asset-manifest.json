@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/climate/static/css/main.2687711e.css",
-    "main.js": "/climate/static/js/main.3ff825a5.js",
-    "static/js/775.2b466222.chunk.js": "/climate/static/js/775.2b466222.chunk.js",
+    "main.js": "/climate/static/js/main.27ff4b9e.js",
+    "static/js/775.3f8cb6d5.chunk.js": "/climate/static/js/775.3f8cb6d5.chunk.js",
     "static/js/787.7efe0150.chunk.js": "/climate/static/js/787.7efe0150.chunk.js",
     "static/js/968.582135be.chunk.js": "/climate/static/js/968.582135be.chunk.js",
     "static/media/clima6.jpg": "/climate/static/media/clima6.48c590876d68430997d9.jpg",
     "index.html": "/climate/index.html",
     "main.2687711e.css.map": "/climate/static/css/main.2687711e.css.map",
-    "main.3ff825a5.js.map": "/climate/static/js/main.3ff825a5.js.map",
-    "775.2b466222.chunk.js.map": "/climate/static/js/775.2b466222.chunk.js.map",
+    "main.27ff4b9e.js.map": "/climate/static/js/main.27ff4b9e.js.map",
+    "775.3f8cb6d5.chunk.js.map": "/climate/static/js/775.3f8cb6d5.chunk.js.map",
     "787.7efe0150.chunk.js.map": "/climate/static/js/787.7efe0150.chunk.js.map",
     "968.582135be.chunk.js.map": "/climate/static/js/968.582135be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2687711e.css",
-    "static/js/main.3ff825a5.js"
+    "static/js/main.27ff4b9e.js"
   ]
 }
